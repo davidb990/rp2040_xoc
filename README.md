@@ -22,7 +22,7 @@ Equipment Needed
 
 Chip Selection
 -
-If you have a range of RP2040s to use, run clock_stat on each, taking note of the ring oscillator (ROSC) frequency. The higher the ROSC frequency, the faster the chip.
+If you have a range of RP2040s to use, run clock_stat on each, taking note of the ring oscillator (ROSC) frequency. The higher the ROSC frequency, the faster the chip. ROSC scores of 5.7+ MHz at room temperature have the best chance of reaching 1 GHz.
 
 Core Voltage
 -
