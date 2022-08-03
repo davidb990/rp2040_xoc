@@ -26,7 +26,7 @@ If you have a range of RP2040s to use, run clock_stat on each, taking note of th
 
 Core Voltage
 -
-In order to change the voltage above the RP2040's 1.3V maximum, the tracks between VSEL and DVDD have to be cut, and wires soldered to the DVDD side directly. Below is an image of the back of the Pico, showing where to make the cuts (red lines across the thick tracks), and where to remove the solder mask (red squares) so that wires can be added.
+In order to change the voltage above the RP2040's 1.3V maximum, the tracks between VSEL and DVDD have to be cut, and wires soldered to the DVDD side directly. Below is an image of the back of the Pico, showing where to make the cuts and where to remove the solder mask so that wires can be added.
 
 ![pico_cuts](https://user-images.githubusercontent.com/90688786/182658671-93774245-2f2b-40a4-9812-dbc2e473a091.jpg)
 
