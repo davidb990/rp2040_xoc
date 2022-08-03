@@ -28,11 +28,11 @@ Core Voltage
 -
 In order to change the voltage above the RP2040's 1.3V maximum, the tracks between VSEL and DVDD have to be cut, and wires soldered to the DVDD side directly. Below is an image of the back of the Pico, showing where to make the cuts (red lines across the thick tracks), and where to remove the solder mask (red squares) so that wires can be added.
 
-![]([../Images/pico_cuts.jpg](https://github.com/davidb990/rp2040_xoc/blob/main/Images/pico_cuts.jpg))
+![pico_cuts](https://user-images.githubusercontent.com/90688786/182658671-93774245-2f2b-40a4-9812-dbc2e473a091.jpg)
 
 Once complete, wire up the Pico as shown:
 
-![]([../Images/pico_wires.jpg](https://github.com/davidb990/rp2040_xoc/blob/main/Images/pico_wires.jpg))
+![pico_wires](https://user-images.githubusercontent.com/90688786/182658692-372361a0-5ee4-4112-bdee-607766f8bac3.jpg)
 
 I'd recommend gluing the wires down to the Pico as they can rip off without much force.
 
