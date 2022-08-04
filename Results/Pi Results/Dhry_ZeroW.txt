@@ -1,0 +1,111 @@
+ #####################################################
+
+ Dhrystone Benchmark 2.1 Opt 3 32 Bit, Thu Aug  4 11:13:02 2022
+
+ Nanoseconds one Dhrystone run:       538.09
+ Dhrystones per Second:              1858439
+ VAX MIPS rating =                   1057.73
+
+ Numeric results were correct
+
+ #####################################################
+
+SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+processor	: 0
+model name	: ARMv6-compatible processor rev 7 (v6l)
+BogoMIPS	: 697.95
+Features	: half thumb fastmult vfp edsp java tls 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xb76
+CPU revision	: 7
+
+Hardware	: BCM2835
+Revision	: 9000c1
+Serial		: 00000000607e533f
+Model		: Raspberry Pi Zero W Rev 1.1
+ 
+
+From File /proc/version
+Linux version 5.15.32+ (dom@buildbot) (arm-linux-gnueabihf-gcc-8 (Ubuntu/Linaro 8.4.0-3ubuntu1) 8.4.0, GNU ld (GNU Binutils for Ubuntu) 2.34) #1538 Thu Mar 31 19:37:58 BST 2022
+ 
+
+Additional information - 
+
+ #####################################################
+
+ Dhrystone Benchmark 2.1 Opt 3 32 Bit, Thu Aug  4 11:16:38 2022
+
+ Nanoseconds one Dhrystone run:       538.68
+ Dhrystones per Second:              1856397
+ VAX MIPS rating =                   1056.57
+
+ Numeric results were correct
+
+ #####################################################
+
+SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+processor	: 0
+model name	: ARMv6-compatible processor rev 7 (v6l)
+BogoMIPS	: 697.95
+Features	: half thumb fastmult vfp edsp java tls 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xb76
+CPU revision	: 7
+
+Hardware	: BCM2835
+Revision	: 9000c1
+Serial		: 00000000607e533f
+Model		: Raspberry Pi Zero W Rev 1.1
+ 
+
+From File /proc/version
+Linux version 5.15.32+ (dom@buildbot) (arm-linux-gnueabihf-gcc-8 (Ubuntu/Linaro 8.4.0-3ubuntu1) 8.4.0, GNU ld (GNU Binutils for Ubuntu) 2.34) #1538 Thu Mar 31 19:37:58 BST 2022
+ 
+
+Additional information - 
+
+ #####################################################
+
+ Dhrystone Benchmark 2.1 Opt 3 32 Bit, Thu Aug  4 11:16:51 2022
+
+ Nanoseconds one Dhrystone run:       538.57
+ Dhrystones per Second:              1856767
+ VAX MIPS rating =                   1056.78
+
+ Numeric results were correct
+
+ #####################################################
+
+SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+processor	: 0
+model name	: ARMv6-compatible processor rev 7 (v6l)
+BogoMIPS	: 697.95
+Features	: half thumb fastmult vfp edsp java tls 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xb76
+CPU revision	: 7
+
+Hardware	: BCM2835
+Revision	: 9000c1
+Serial		: 00000000607e533f
+Model		: Raspberry Pi Zero W Rev 1.1
+ 
+
+From File /proc/version
+Linux version 5.15.32+ (dom@buildbot) (arm-linux-gnueabihf-gcc-8 (Ubuntu/Linaro 8.4.0-3ubuntu1) 8.4.0, GNU ld (GNU Binutils for Ubuntu) 2.34) #1538 Thu Mar 31 19:37:58 BST 2022
+ 
+
+Additional information - 
+
