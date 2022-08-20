@@ -8,7 +8,6 @@ add_executable(XOC
         XOC.c
         )
 pico_enable_stdio_usb(XOC 1)
-pico_enable_stdio_uart(XOC 1)
 pico_add_extra_outputs(XOC)
-target_link_libraries(XOC pico_stdlib hardware_clocks hardware_pll hardware_uart hardware_gpio pico_time hardware_vreg)
+target_link_libraries(XOC pico_stdlib hardware_clocks hardware_pll hardware_gpio pico_time hardware_vreg)
 pico_set_binary_type(XOC copy_to_ram)
