@@ -23,13 +23,7 @@ void clk_config_rosc() {
 
     rosc_restart();
 	
-	
-    // sys_clk set to run off the ROSC
-    /*clock_configure(clk_sys,
-                    CLOCKS_CLK_SYS_CTRL_SRC_VALUE_CLKSRC_CLK_SYS_AUX,
-                    CLOCKS_CLK_SYS_CTRL_AUXSRC_VALUE_ROSC_CLKSRC,
-                    6 * MHZ,
-                    6 * MHZ);*/
+	//clk_ref set to run off the XOSC
 	clock_configure(clk_ref,
                         CLOCKS_CLK_REF_CTRL_SRC_VALUE_XOSC_CLKSRC,
                         0,
@@ -51,6 +45,7 @@ void clk_config_rosc() {
                         48 * MHZ,
                         48 * MHZ);
 
+	// clk_sys set to run off the ROSC
 	clock_configure(clk_sys,
                         CLOCKS_CLK_SYS_CTRL_SRC_VALUE_CLKSRC_CLK_SYS_AUX,
                         CLOCKS_CLK_SYS_CTRL_AUXSRC_VALUE_ROSC_CLKSRC,
